@@ -1,5 +1,6 @@
 require 'rspec'
 require_relative 'recurring_moment'
+require 'pry'
 
 describe RecurringMoment do
   describe '#match' do
